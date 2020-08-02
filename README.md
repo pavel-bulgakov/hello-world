@@ -8,7 +8,7 @@ Hello World!
 ### Connect me here:
 
 * [LinkedIn](https://www.linkedin.com/in/pavel-bulgakov/) 
-* [Email](<itpavelbulgakov@gmail.com>)
+* <itpavelbulgakov@gmail.com>
 
 
 Cheers!:rocket:
